@@ -44,6 +44,7 @@ README.md            → Este archivo de documentación principal
 3. **Los códigos de lanzamiento JAMÁS se suben al repositorio.** El que los suba será entregado a Batman.
 4. **Los fracasos se documentan.** Aprendemos de ellos para la próxima vez.
 5. **Nada de monólogos explicando el plan al héroe.** Joker, esto va especialmente por ti.
+6. **La lealtad al Consejo es absoluta.** Cualquier traición será castigada sin piedad.
 
 ## Estado actual
 
